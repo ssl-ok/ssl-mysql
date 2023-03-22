@@ -18,5 +18,7 @@ public class Test {
         System.out.println("第三次提交");
 
         System.out.println("这是hot-fix");
+        System.out.println("这是hot-fix test");
+
     }
 }
