@@ -21,5 +21,7 @@ public class Test {
 
         System.out.println("这是master test");
 
+        System.out.println("这是hot-fix test");
+
     }
 }
